@@ -39,13 +39,19 @@ img {
 .pink {
   color: #ff2a75;
 }
+.brown {
+  color: #835C3B;
+}
+.cyan {
+  color: #3090C7;
+}
 .blue {
   color: #37a7ff;
 }
 
 /* Hero Section */
 header.hero {
-  background: url(../assets/hero-bg.jpg) no-repeat center center fixed;
+  background: url(../assets/banner3-bg.png) no-repeat center center fixed; /*hero-bg.jpg*/
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
